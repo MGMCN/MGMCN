@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-  ☺️ I’m currently working on P2P system.
+- 😭 I’m currently learning Go.
+
+
+![](https://github-readme-stats.vercel.app/api?username=MGMCN&count_private=true&theme=synthwave&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGMCN&count_private=true&layout=compact&theme=synthwave)
