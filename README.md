@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  😭 I’m currently working on P2P system.
-- 😭 I’m currently learning Go.
+-  😄 I’m currently working on P2P system.
 
 ### 🛠 &nbsp;Tech Stack
 
