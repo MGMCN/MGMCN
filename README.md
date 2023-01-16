@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=MGMCN&count_private=true&theme=synthwave&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGMCN&count_private=true&layout=compact&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=MGMCN&count_private=true&theme=synthwave&show_icons=true)
