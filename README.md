@@ -16,16 +16,18 @@ Here are some ideas to get you started:
 -->
 
 -  😄 I’m currently working on P2P system.
+-  😭 I‘m looking for a job.
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white&labelColor=101728&color=101728)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&labelColor=101728&color=101728)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
