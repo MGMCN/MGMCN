@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGMCN&count_private=true&layout=compact&theme=synthwave)
-![](https://github-readme-stats.vercel.app/api?username=MGMCN&count_private=true&theme=synthwave&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=MGMCN&count_private=true&theme=synthwave&show_icons=true) -->
