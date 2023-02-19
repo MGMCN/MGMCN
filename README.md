@@ -1,3 +1,11 @@
+<p align="left">
+  <a href="https://github.com/MGMCN/MGMCN/">
+    <img src="https://komarev.com/ghpvc/?username=MGMCN&color=blueviolet&style=flat" alt="MGMCN" />
+  
+   <a href="https://github.com/MGMCN">
+    <img height="20" src="https://img.shields.io/github/followers/MGMCN?label=follow&logo=github&style=flat" />
+  </a>   
+</p>
 ### Hi there 👋
 
 <!--
