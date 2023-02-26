@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 -  😄 I’m currently working on P2P system.
--  😭 I‘m looking for a job in Japan.
+-  😝 I‘m looking for a job in Japan.
 
 ### 🛠 &nbsp;Tech Stack
 
