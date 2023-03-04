@@ -60,5 +60,11 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<img height="160em" 
+       src="https://github-readme-stats.vercel.app/api?username=MGMCN&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGMCN&layout=compact&langs_count=9&theme=radical"/>
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=MGMCN&count_private=true&theme=synthwave&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGMCN&count_private=true&layout=compact&theme=synthwave)
+-->
