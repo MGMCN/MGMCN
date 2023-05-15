@@ -43,7 +43,19 @@
 | **[get-pixivpy-token](https://github.com/eggplants/get-pixivpy-token)** | ![stars](https://img.shields.io/github/stars/eggplants/get-pixivpy-token?style=social)| ![forks](https://img.shields.io/github/forks/eggplants/get-pixivpy-token?style=social) | **[#64pr](https://github.com/eggplants/get-pixivpy-token/pull/64)、[#67pr](https://github.com/eggplants/get-pixivpy-token/pull/67)** |
 
 </details>
+  
+<details>
+  <summary>👥 &nbsp;Co-developed</summary>
+  <br>
+  
+| Repository | Stars | Forks |
+| ------- | ------- | ------- |
+| **[pppixiv](https://github.com/MGMCN/pppixiv)** | ![stars](https://img.shields.io/github/stars/MGMCN/pppixiv?style=social) | ![forks](https://img.shields.io/github/forks/MGMCN/pppixiv?style=social) |
+| **[tg-dumb-bot](https://github.com/hackroid/tg-dumb-bot)** | ![stars](https://img.shields.io/github/stars/hackroid/tg-dumb-bot?style=social) | ![forks](https://img.shields.io/github/forks/hackroid/tg-dumb-bot?style=social) |
 
+
+</details>  
+  
 <details>
   <summary>⚙️ &nbsp;GitHub Analytics</summary>
   <br>
