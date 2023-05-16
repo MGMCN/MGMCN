@@ -57,6 +57,19 @@
 </details>  
   
 <details>
+  <summary>🧸 &nbsp;Boring toys</summary>
+  <br>
+  
+| Repository | Summary |
+| ------- | ----------------------------------- |
+| **[FastCV](https://github.com/MGMCN/FastCV)** | Help beginners build their personal cv with github.io |
+| **[hugoThemesRanking](https://github.com/MGMCN/hugoThemesRanking)** | Self-use tool to quickly retrieve hugo themes ranked by stars |
+| **[fastDownloader](https://github.com/MGMCN/fastDownloader)** | Self-use crawler downloader |
+
+
+</details> 
+  
+<details>
   <summary>⚙️ &nbsp;GitHub Analytics</summary>
   <br>
   
