@@ -57,7 +57,7 @@
 </details>  
   
 <details>
-  <summary>🧸 &nbsp;Boring toys</summary>
+  <summary>🧸 &nbsp;Useless toys</summary>
   <br>
   
 | Repository | Summary |
