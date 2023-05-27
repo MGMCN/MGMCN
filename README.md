@@ -63,9 +63,10 @@
 | Repository | Summary |
 | ------- | ----------------------------------- |
 | **[FastCV](https://github.com/MGMCN/FastCV)** | Help beginners build their personal cv with github.io |
+| **[bilibiliWordCloud](https://github.com/MGMCN/bilibiliWordCloud)** | Self-use tool for extracting short comments of animations |
 | **[hugoThemesRanking](https://github.com/MGMCN/hugoThemesRanking)** | Self-use tool to quickly retrieve hugo themes ranked by stars |
 | **[fastDownloader](https://github.com/MGMCN/fastDownloader)** | Self-use crawler downloader |
-| **[deleteHelper](https://github.com/MGMCN/deleteHelper)** | Self-use deleteHelper |
+| **[deleteHelper](https://github.com/MGMCN/deleteHelper)** | Self-use deleteHelper |  
 
 </details> 
   
