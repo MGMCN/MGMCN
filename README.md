@@ -1,6 +1,6 @@
 <p>
 <a href="https://github.com/MGMCN">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1533&pause=1000&color=15F739&vCenter=true&width=435&height=25&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9DMGMCN%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%B8;Talk+is+cheap+show+me+the+code" alt="MGMCN-typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1533&pause=1000&color=15F739&vCenter=true&width=435&height=50&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9DMGMCN%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%B8;Talk+is+cheap+show+me+the+code" alt="MGMCN-typing-svg" />
 </a>
 </p>
 
