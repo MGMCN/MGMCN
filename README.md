@@ -27,6 +27,8 @@
   <summary>🔨 &nbsp;Programming languages used</summary>
   <br>
   
+Most of the programming languages were learned when I was an undergraduate. Some of these programming languages I use regularly and some I rarely use anymore.  
+
 | Level | Languages |
 | ------- | ------- |
 | Frequently used | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) |
@@ -41,7 +43,7 @@
   
 | Type | Technologies |
 | ------- | ------- |
-| Framework | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Scrapy](https://img.shields.io/badge/Scrapy-%23000000.svg?style=for-the-badge&logo=python&logoColor=%233776AB) ![Colly](https://img.shields.io/badge/Colly-%231687B1.svg?style=for-the-badge&logo=go&logoColor=white) |
+| Framework | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Scrapy](https://img.shields.io/badge/Scrapy-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Colly](https://img.shields.io/badge/Colly-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) |
 | Database | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
 | Middleware | ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 | Container technology | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
