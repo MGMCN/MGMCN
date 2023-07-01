@@ -83,11 +83,12 @@ Most of the programming languages were learned when I was an undergraduate. Some
   
 | Repository | Summary |
 | ------- | ----------------------------------- |
-| **[FastCV](https://github.com/MGMCN/FastCV)** | Help beginners build their personal cv with github.io |
 | **[bilibiliWordCloud](https://github.com/MGMCN/bilibiliWordCloud)** | Self-use tool for generating animation short comment keywords |
-| **[hugoThemesRanking](https://github.com/MGMCN/hugoThemesRanking)** | Self-use tool to quickly retrieve hugo themes ranked by stars |
-| **[fastDownloader](https://github.com/MGMCN/fastDownloader)** | Self-use crawler downloader |
 | **[deleteHelper](https://github.com/MGMCN/deleteHelper)** | Self-use deleteHelper |
+| **[FastCV](https://github.com/MGMCN/FastCV)** | Help beginners build their personal cv with github.io |
+| **[fastDownloader](https://github.com/MGMCN/fastDownloader)** | Self-use crawler downloader |
+| **[hugoThemesRanking](https://github.com/MGMCN/hugoThemesRanking)** | Self-use tool to quickly retrieve hugo themes ranked by stars |
+| **[mazebot](https://github.com/MGMCN/mazebot)** | Q-learning demo |
 | **[P2P-File-Sharing](https://github.com/MGMCN/P2P-File-Sharing)** | LAN File Sharing Tool |
 
 </details> 
