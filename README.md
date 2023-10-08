@@ -18,7 +18,6 @@
   <br>
   
 -  😄 I’m currently working on P2P system.
--  😝 I‘m looking for a job in Japan.
 -  😍 I am an enthusiast of web crawling technology.
 
 </details>
