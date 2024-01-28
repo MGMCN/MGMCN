@@ -19,6 +19,7 @@
   
 -  😄 I’m currently working on P2P system.
 -  😍 I am an enthusiast of web crawling technology.
+-  🤩 I enjoy contributing to open source libraries.
 
 </details>
   
